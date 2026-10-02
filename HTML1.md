@@ -25,6 +25,8 @@ Exemple de code : <br>
 *\<!doctype html>* <br>
 *\<html\>* <br>
 **\<head\>** <br>
+&nbsp; &nbsp; &nbsp; **\<meta charset="UTF-8" /\>** \<!-- *Définit l'ensemble de caractères utilisé pour afficher une page HTML* --\> <br>
+&nbsp; &nbsp; &nbsp;**\<title\>Titre du document\</title\>** \<!-- *Titre de la page* --\> <br>
 **\<\head\>** <br>
 *\<\html\>* 
 
@@ -34,11 +36,11 @@ La balise <\title\> permet de définir le titre de la page ou plus précisement 
 <br><br>
 Exemple de code : <br>
 *\<!doctype html>* <br>
-*\<html\>* <br>
-*\<head\>* <br>
-**\<title\>** <br>
-**\<\title\>** <br>
-*\<\head\>* <br>
+*\<html\>*
+<br>
+*\<head\>* 
+**\<title\>** **Markdown Line Preview** **\<\title\>** <img width="169" height="28" alt="image" src="https://github.com/user-attachments/assets/8a36ddc3-a288-45f5-8a85-cd05d947fe20"/>
+*\<\head\>* <br> <br>
 *\<\html\>* 
 
 
@@ -53,5 +55,8 @@ Exemple de code : <br>
 *\<\title\>* <br>
 *\<\head\>* <br>
 **\<\body\>** <br>
+**\<h1>Titre principal</h1\>**<br>
+**\<h2>Titre secondaire</h2\>**<br>
+**\<p>Texte aléatoire</p\>**<br>
 **\<\body\>** <br>
 *\<\html\>* 
