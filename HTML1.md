@@ -10,7 +10,7 @@ Exemple de code : <br>
 *\<html\>* <br>
 *\<\html\>*
 
-**Erreur(s) à ne pas faire** : Ne pas oublier d'écrire cette balise et de la place au DÉBUT de tout document HTML.
+**Erreur(s) à ne pas faire** : Ne pas oublier d'écrire cette balise et de la place au DÉBUT de tout document HTML. Sans cette balise, il n'est pas possible de faire valider notre site selon les normes W3C
 
 ## 2. \<html\>
 La balise <html> représente la racine d'un document HTML. <br>
@@ -22,7 +22,7 @@ Exemple de code : <br>
 **\<html\>** <br>
 **\<\html\>**
 
-**Erreur(s) à ne pas faire** : Insérer des balises HTML
+**Erreur(s) à ne pas faire** :
 
 ## 3. \<head\>
 L'élément HTML \<head\> fournit des informations générales (métadonnées) sur le document, incluant son titre, scripts, et feuilles de style. Il ne peut y avoir qu'un seul élément \<head\> dans un document HTML.
